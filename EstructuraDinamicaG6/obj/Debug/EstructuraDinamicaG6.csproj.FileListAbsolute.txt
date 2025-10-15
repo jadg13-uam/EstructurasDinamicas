@@ -1,0 +1,10 @@
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\EstructuraDinamicaG6.exe.config
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\EstructuraDinamicaG6.exe
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\bin\Debug\EstructuraDinamicaG6.pdb
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.csproj.AssemblyReference.cache
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.Form1.resources
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.Properties.Resources.resources
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.csproj.GenerateResource.cache
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.exe
+C:\Users\labc205\Documents\Estructura\EstructuraDinamicaG6\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.pdb
